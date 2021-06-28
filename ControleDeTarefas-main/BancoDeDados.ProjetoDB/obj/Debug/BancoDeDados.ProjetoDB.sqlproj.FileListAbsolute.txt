@@ -1,0 +1,12 @@
+C:\Users\pedro\source\repos\ControleDeTarefas.ConsoleApp\BancoDeDados.ProjetoDB\bin\Debug\BancoDeDados.ProjetoDB.dacpac
+C:\Users\pedro\source\repos\ControleDeTarefas.ConsoleApp\BancoDeDados.ProjetoDB\bin\Debug\BancoDeDados.ProjetoDB.dll
+C:\Users\pedro\source\repos\ControleDeTarefas.ConsoleApp\BancoDeDados.ProjetoDB\bin\Debug\BancoDeDados.ProjetoDB.pdb
+C:\Users\pedro\source\repos\ControleDeTarefas.ConsoleApp\BancoDeDados.ProjetoDB\obj\Debug\BancoDeDados.ProjetoDB.sqlproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\ControleDeTarefas.ConsoleApp\BancoDeDados.ProjetoDB\obj\Debug\BancoDeDados.ProjetoDB.dll
+C:\Users\pedro\source\repos\ControleDeTarefas.ConsoleApp\BancoDeDados.ProjetoDB\obj\Debug\BancoDeDados.ProjetoDB.pdb
+C:\Users\pedro\Downloads\ControleDeTarefas-main\ControleDeTarefas-main\BancoDeDados.ProjetoDB\bin\Debug\BancoDeDados.ProjetoDB.dacpac
+C:\Users\pedro\Downloads\ControleDeTarefas-main\ControleDeTarefas-main\BancoDeDados.ProjetoDB\bin\Debug\BancoDeDados.ProjetoDB.dll
+C:\Users\pedro\Downloads\ControleDeTarefas-main\ControleDeTarefas-main\BancoDeDados.ProjetoDB\bin\Debug\BancoDeDados.ProjetoDB.pdb
+C:\Users\pedro\Downloads\ControleDeTarefas-main\ControleDeTarefas-main\BancoDeDados.ProjetoDB\obj\Debug\BancoDeDados.ProjetoDB.sqlproj.AssemblyReference.cache
+C:\Users\pedro\Downloads\ControleDeTarefas-main\ControleDeTarefas-main\BancoDeDados.ProjetoDB\obj\Debug\BancoDeDados.ProjetoDB.dll
+C:\Users\pedro\Downloads\ControleDeTarefas-main\ControleDeTarefas-main\BancoDeDados.ProjetoDB\obj\Debug\BancoDeDados.ProjetoDB.pdb

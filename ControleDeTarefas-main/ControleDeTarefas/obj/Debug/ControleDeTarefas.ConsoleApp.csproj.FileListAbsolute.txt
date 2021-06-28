@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\ControleDeTarefas.ConsoleApp\ControleDeTarefas\bin\Debug\ControleDeTarefas.exe.config
+C:\Users\pedro\source\repos\ControleDeTarefas.ConsoleApp\ControleDeTarefas\bin\Debug\ControleDeTarefas.exe
+C:\Users\pedro\source\repos\ControleDeTarefas.ConsoleApp\ControleDeTarefas\bin\Debug\ControleDeTarefas.pdb
+C:\Users\pedro\source\repos\ControleDeTarefas.ConsoleApp\ControleDeTarefas\obj\Debug\ControleDeTarefas.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\ControleDeTarefas.ConsoleApp\ControleDeTarefas\obj\Debug\ControleDeTarefas.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ControleDeTarefas.ConsoleApp\ControleDeTarefas\obj\Debug\ControleDeTarefas.exe
+C:\Users\pedro\source\repos\ControleDeTarefas.ConsoleApp\ControleDeTarefas\obj\Debug\ControleDeTarefas.pdb
+C:\Users\pedro\Downloads\ControleDeTarefas-main\ControleDeTarefas-main\ControleDeTarefas\obj\Debug\ControleDeTarefas.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\pedro\Downloads\ControleDeTarefas-main\ControleDeTarefas-main\ControleDeTarefas\obj\Debug\ControleDeTarefas.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Downloads\ControleDeTarefas-main\ControleDeTarefas-main\ControleDeTarefas\obj\Debug\ControleDeTarefas.exe
+C:\Users\pedro\Downloads\ControleDeTarefas-main\ControleDeTarefas-main\ControleDeTarefas\obj\Debug\ControleDeTarefas.pdb
+C:\Users\pedro\Downloads\ControleDeTarefas-main\ControleDeTarefas-main\ControleDeTarefas\bin\Debug\ControleDeTarefas.exe.config
+C:\Users\pedro\Downloads\ControleDeTarefas-main\ControleDeTarefas-main\ControleDeTarefas\bin\Debug\ControleDeTarefas.exe
+C:\Users\pedro\Downloads\ControleDeTarefas-main\ControleDeTarefas-main\ControleDeTarefas\bin\Debug\ControleDeTarefas.pdb
